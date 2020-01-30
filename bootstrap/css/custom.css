@@ -1,0 +1,83 @@
+.music {
+    height: 60vh;
+    display: flex;
+    justify-content: center;
+    background-color: rgba(184, 192, 185, 0.99);
+    width: 100%;
+}
+img{
+    width: 80%;
+}
+.title{
+    justify-content: center;
+    display: flex;
+}
+.dg{
+    justify-content: center;
+    display: flex;
+}
+.footer_div{
+height: 10vh;
+display: flex;
+}
+.div_1{
+    height:10vh;
+}
+.div_2{
+    height:10vh;
+}
+.div_3{
+    height:10vh;
+}
+.template{
+    height: 60vh;
+    display: flex;
+    justify-content: center;
+    background-color: rgba(185, 197, 197, 0.99);
+    width: 100%;
+}
+.top_tt{
+    display: flex;
+    justify-content: center;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+}
+.coz{
+    height: 60vh;
+    display: flex;
+    width: 70%;
+    justify-content: center;
+}
+.pp1{
+    display: flex;
+    height: 60vh;
+}
+.BUTTON{
+    background-color: rgba(62,197,25,0.99);
+}
+body{
+    background-color: rgba(228, 237, 239, 0.99);
+}
+.navbar-collapse{
+    margin-left: 40%;
+}
+
+/* Top left text */
+.top-left {
+    position: absolute;
+    top: 50%;
+    left: 50px;
+}
+.green{
+    color: #67e922;
+    display: flex;
+    justify-content: right;
+}
+.flower{
+    height: 20%;
+}
+.learn{
+    display: flex;
+}
